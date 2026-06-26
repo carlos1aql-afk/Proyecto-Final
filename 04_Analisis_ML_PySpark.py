@@ -3,9 +3,9 @@
 # [tool.databricks.environment]
 # environment_version = "5"
 # ///
-# DBTITLE 1,Proyecto Final Big Data - Análisis y Machine Learning (PySpark)
+# DBTITLE 1,Proyecto Final Big Data
 # MAGIC %md
-# MAGIC # 🤖 PROYECTO FINAL BIG DATA - ANÁLISIS Y MACHINE LEARNING (PySpark)
+# MAGIC # 🤖 PROYECTO FINAL BIG DATA
 # MAGIC ## Análisis Avanzado y Modelos Predictivos con PySpark MLlib
 # MAGIC
 # MAGIC ### 🎯 Objetivo
