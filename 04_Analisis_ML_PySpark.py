@@ -538,24 +538,7 @@ for i in range(1, 4):
 # MAGIC    - Entidades con comportamiento atípico
 # MAGIC    - Patrones temporales para optimizar recursos
 # MAGIC
-# MAGIC ### Recomendaciones:
-# MAGIC
-# MAGIC 1. **Para el Regulador (Superintendencia Financiera)**:
-# MAGIC    - Enfocar supervisión en entidades del Cluster 3 (volumen crítico)
-# MAGIC    - Monitorear productos con mayor volumen de quejas
-# MAGIC    - Establecer alertas automáticas para picos anómalos
-# MAGIC
-# MAGIC 2. **Para Entidades Financieras**:
-# MAGIC    - Benchmarking contra su cluster
-# MAGIC    - Identificar áreas de mejora en productos problemáticos
-# MAGIC    - Implementar acciones preventivas
-# MAGIC
-# MAGIC 3. **Próximos Pasos Técnicos**:
-# MAGIC    - Implementar modelos más avanzados (Prophet, ARIMA, LSTM)
-# MAGIC    - Análisis de texto de motivos de queja (NLP)
-# MAGIC    - Modelo de clasificación de gravedad
-# MAGIC    - Dashboard interactivo en tiempo real
-# MAGIC    - Pipeline automatizado con Lakeflow
+
 
 # COMMAND ----------
 
