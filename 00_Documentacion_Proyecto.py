@@ -518,64 +518,6 @@
 # MAGIC    - No hay datos en tiempo real
 # MAGIC    - No hay actualización automática
 # MAGIC
-# MAGIC ### Trabajo Futuro Recomendado
-# MAGIC
-# MAGIC #### 1. Mejoras en Modelos Predictivos
-# MAGIC - ✓ **Implementar Prophet** para forecasting avanzado
-# MAGIC - ✓ **ARIMA/SARIMA** para capturar estacionalidad
-# MAGIC - ✓ **LSTM (Deep Learning)** para patrones complejos
-# MAGIC - ✓ **Incorporar variables exógenas** (indicadores económicos)
-# MAGIC - ✓ **Cross-validation** temporal para evaluar modelos
-# MAGIC
-# MAGIC #### 2. Análisis de Texto (NLP)
-# MAGIC - ✓ **Topic Modeling** (LDA) en campo "motivo"
-# MAGIC - ✓ **Clasificación automática** de quejas por gravedad
-# MAGIC - ✓ **Sentiment Analysis** si hay texto libre
-# MAGIC - ✓ **Named Entity Recognition** para extraer detalles específicos
-# MAGIC - ✓ **Word embeddings** para similaridad de quejas
-# MAGIC
-# MAGIC #### 3. Pipeline de Datos Automatizado
-# MAGIC - ✓ **Lakeflow Spark Declarative Pipelines** para ETL automatizado
-# MAGIC - ✓ **Scheduled Jobs** para actualización periódica
-# MAGIC - ✓ **Alertas automáticas** cuando métricas exceden umbrales
-# MAGIC - ✓ **Validación de calidad automatizada** con expectations
-# MAGIC - ✓ **Monitoreo de data drift**
-# MAGIC
-# MAGIC #### 4. Dashboard Interactivo
-# MAGIC - ✓ **Lakeview Dashboard** en Databricks
-# MAGIC - ✓ **Filtros dinámicos** por entidad, producto, periodo
-# MAGIC - ✓ **Gráficos interactivos** con drill-down
-# MAGIC - ✓ **Actualización en tiempo real**
-# MAGIC - ✓ **Exportación de reportes** automatizada
-# MAGIC
-# MAGIC #### 5. Modelos Avanzados
-# MAGIC - ✓ **Sistema de recomendación** (recomendar acciones a entidades)
-# MAGIC - ✓ **Detección de anomalías** (Isolation Forest, Autoencoders)
-# MAGIC - ✓ **Clasificación de gravedad** de quejas (bajo, medio, alto)
-# MAGIC - ✓ **Predicción de resolución** (tiempo estimado)
-# MAGIC - ✓ **Churn prediction** (entidades que mejorarán/empeorarán)
-# MAGIC
-# MAGIC #### 6. Escalabilidad
-# MAGIC - ✓ **Optimización de particionamiento** Delta Lake
-# MAGIC - ✓ **Implementación de Z-ordering** para queries rápidas
-# MAGIC - ✓ **Cache inteligente** de tablas frecuentes
-# MAGIC - ✓ **Auto-scaling** de clusters
-# MAGIC - ✓ **Photon engine** para queries SQL más rápidas
-# MAGIC
-# MAGIC #### 7. Gobernanza y Seguridad
-# MAGIC - ✓ **Row-level security** para acceso diferenciado
-# MAGIC - ✓ **Column masking** para datos sensibles
-# MAGIC - ✓ **Audit logs** completos
-# MAGIC - ✓ **Data lineage** tracking
-# MAGIC - ✓ **Compliance** con regulaciones (GDPR, etc.)
-# MAGIC
-# MAGIC #### 8. Integración
-# MAGIC - ✓ **API REST** para acceso externo a métricas
-# MAGIC - ✓ **Integración con Power BI / Tableau**
-# MAGIC - ✓ **Webhooks** para notificaciones
-# MAGIC - ✓ **CI/CD** para deployment automatizado
-# MAGIC - ✓ **MLflow** para tracking de modelos ML
-# MAGIC
 # MAGIC ---
 
 # COMMAND ----------
@@ -638,7 +580,7 @@
 # MAGIC
 # MAGIC ## 🚀 ¡Gracias por revisar este proyecto!
 # MAGIC
-# MAGIC **Proyecto realizado por**: Estudiante de Big Data
+# MAGIC **Proyecto realizado por**: Carlos Andrés Quintero Laverde
 # MAGIC
 # MAGIC **Materia**: Big Data
 # MAGIC
