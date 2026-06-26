@@ -1,6 +1,8 @@
-Proyecto realizado por: Carlos Andres Quintero Laverde
+
 
 # Proyecto-Final
+
+## Proyecto realizado por: Carlos Andres Quintero Laverde
 
 La Superfinanciera recibe miles de reclamaciones relacionadas con:
 
